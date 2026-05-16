@@ -188,7 +188,7 @@ const Landing = () => {
           >
             <div className="relative rounded-[40px] overflow-hidden border-4 border-white shadow-[0_40px_100px_-20px_rgba(0,0,0,0.15)] bg-slate-50">
               <img 
-                src="/taskforge_dashboard_mockup_1778792751133.png" 
+                src="/dashboard-mockup.png" 
                 alt="TaskForge Dashboard Mockup" 
                 className="w-full h-auto"
               />
